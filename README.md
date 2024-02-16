@@ -1,3 +1,6 @@
+<div align="center">
+     <img width="350" alt="Screenshot 2024-02-16 at 10 44 20 AM" src="https://github.com/emilyvelez/LetterboxdProject/assets/132703304/225e1ccf-ed8a-4548-a2bc-11ff77afd167">
+</div>
 
 # Letterboxd Movie Review Project
 
